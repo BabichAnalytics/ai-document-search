@@ -1,0 +1,8 @@
+.venv/
+models/
+__pycache__/
+*.pyc
+*.sqlite3
+*.sqlite3-*
+documents/*
+!documents/Fictional-Support-Handbook.txt
