@@ -1,1 +1,149 @@
+NORTHSTAR NOTES — FICTIONAL SUPPORT HANDBOOK
+Version 1.0 | Demo dataset | October 10, 2026
 
+ABOUT THIS DOCUMENT
+Northstar Notes is an invented note-taking service. All products, prices,
+policies, incidents, and contact details below are fictional. This handbook
+is original sample content for a public local AI document-search demo.
+It describes no real company's policies and contains no customer records.
+Permission is granted to use, copy, modify, and redistribute this handbook,
+including in public repositories and demonstrations.
+
+1. SERVICE AND PLANS
+Northstar Notes lets users write notes, organize notebooks, and export files.
+The Free plan includes one user, three notebooks, and 100 MB of storage.
+The Plus plan costs 8 USD per month and includes one user, unlimited notebooks,
+and 5 GB of storage. The Team plan costs 12 USD per user per month and includes
+shared notebooks and 10 GB of storage per paid user. There is no annual plan.
+These fictional prices exclude any applicable taxes.
+
+2. PASSWORD RESETS
+To reset a password, select Forgot password on the sign-in page and enter
+the account email address. A reset link expires 30 minutes after it is issued.
+Requesting a new link invalidates older links. If no message arrives within
+five minutes, check spam and verify that the email address was entered correctly.
+Support must never request a password or a password-reset link.
+Accounts created using an external sign-in provider must reset their password
+with that provider, rather than through Northstar Notes.
+
+3. TWO-FACTOR AUTHENTICATION AND LOCKOUTS
+Two-factor authentication uses an authenticator app. If a code is rejected,
+enable automatic time synchronization on the device and try a fresh code.
+A saved recovery code can be used once. Never share recovery codes with support.
+After five failed password attempts within ten minutes, password sign-in is
+locked for 15 minutes. Further attempts do not shorten the lockout.
+If both the authenticator and recovery codes are unavailable, contact support
+for identity verification. Recovery is not guaranteed, and verification cannot
+be bypassed by providing payment-card details.
+
+4. BILLING AND DUPLICATE CHARGES
+Paid plans renew monthly on the subscription date. If that date does not exist
+in a month, renewal occurs on the month's last day.
+A pending card authorization is not necessarily a second completed charge.
+For two completed charges covering the same account and billing period,
+support checks the transaction records and refunds a confirmed duplicate.
+Provide the invoice number, charge date, amount, and only the last four digits
+of the card. Never send a full card number, security code, or banking password.
+Receipts are available under Settings > Billing > Invoices.
+
+5. REFUND POLICY
+The first payment for a new paid subscription is eligible for a refund if the
+request is submitted within 14 calendar days of that payment.
+Routine renewal payments are not refundable under this fictional policy.
+Confirmed duplicate charges are refundable even outside the 14-day window.
+Once approved, refunds are submitted to the original payment method within
+two business days. The bank may take another five to ten business days to
+display the credit. These are separate stages, not an immediate refund.
+Support cannot promise an exact bank posting date.
+
+6. CANCELLATION AND DOWNGRADES
+Cancel under Settings > Billing > Cancel subscription.
+Cancellation stops the next renewal; paid access continues until the current
+billing period ends. Cancellation does not automatically create a refund.
+At the end of the paid period, the account moves to the Free plan.
+If an account exceeds Free-plan limits, existing notes remain readable and
+exportable, but creating notebooks or uploading files is blocked until the
+account is within the limits or a paid plan is restored.
+
+7. SYNCHRONIZATION PROBLEMS
+When a recent note does not appear on another device, first confirm that both
+devices use the same account. Check the internet connection and refresh the app.
+Inspect the synchronization indicator before assuming that changes were saved.
+If the problem continues, record the app version, device type, approximate time,
+and exact error message. Copy any unsynchronized text to a local file before
+signing out, clearing browser data, or reinstalling the app.
+Do not delete the local copy until the note appears correctly on both devices.
+An offline edit does not synchronize until the device reconnects.
+
+8. FILE UPLOADS AND STORAGE
+Supported attachments are PDF, TXT, PNG, and JPG files.
+The maximum size of a single attachment is 20 MB on every plan.
+If an upload fails, check its size and file type, then check available storage.
+Renaming an unsupported file extension does not convert the file.
+When storage is full, reading and exporting existing notes still work.
+New attachments are blocked until space is freed or the plan is upgraded.
+Password-protected PDFs can be stored, but their contents are not indexed.
+
+9. SEARCH AND DOCUMENT EXTRACTION
+Search indexes note text and text extracted from unencrypted PDFs and TXT files.
+Image-only scanned PDFs require optical character recognition before their
+contents can be searched. This fictional service does not provide built-in OCR.
+A PDF page number refers to its physical page position starting at one; it
+may differ from the page number printed inside the document.
+Newly uploaded searchable files normally appear in search within two minutes.
+Search results identify matching passages; they do not prove every statement
+in a document is true. Users should inspect the cited source before acting.
+
+10. EXPORTS AND DELETED NOTES
+Export a notebook under Notebook menu > Export. Available formats are TXT
+and Markdown. Attachments are included as separate files in the export archive.
+Deleted notes remain in Trash for 30 calendar days unless permanently deleted
+earlier by the user. Restore them under Trash > Select note > Restore.
+After permanent deletion or expiration of the 30-day period, normal account
+tools cannot restore the note. Support must not promise recovery.
+Export important material before closing an account.
+
+11. TEAM PERMISSIONS
+Owners manage billing, invite members, and transfer ownership.
+Editors create and modify shared notes but cannot change billing.
+Viewers read shared notes but cannot edit or invite members.
+Only an owner can change a member's role. Removing a team member revokes
+their shared-notebook access but does not delete their personal notebooks.
+Every team must have at least one owner.
+
+12. SUPPORT HOURS AND PRIORITIES
+Fictional support hours are Monday through Friday, 09:00 to 17:00 UTC,
+excluding fictional company holidays. The example contact address is
+support@northstar-notes.example; it is a placeholder, not a working inbox.
+Priority 1: widespread inability to sign in or access saved notes.
+Priority 2: repeated synchronization failures affecting several users.
+Priority 3: an isolated billing question, upload issue, or feature request.
+Initial response targets during staffed support hours are one hour for
+Priority 1, four hours for Priority 2, and two business days for Priority 3.
+Response targets describe an initial reply, not guaranteed resolution times.
+
+13. INCIDENT HANDLING AND PRIVACY
+For a suspected outage, check the fictional status page at
+status.northstar-notes.example and collect the time and exact error message.
+Never instruct a user to disable account security as an outage workaround.
+Support tickets should contain only information needed to diagnose the issue.
+Redact passwords, reset links, recovery codes, full card numbers, and private
+note contents from screenshots and logs before sharing them.
+The service does not have an established recovery-time guarantee in this
+demo handbook. Do not invent one when answering incident questions.
+
+14. EXAMPLE SEARCH QUESTIONS
+How long does a password reset link last?
+What should I do if a two-factor authentication code is rejected?
+Can I get a refund for my first subscription payment?
+Are renewal payments refundable?
+Does cancelling my plan immediately remove paid access?
+How do I protect unsynchronized notes before reinstalling?
+What is the maximum attachment size?
+Can the service search an image-only scanned PDF?
+How long do deleted notes stay in Trash?
+Who can change a team member's role?
+What is the response target for a widespread sign-in outage?
+What is the guaranteed outage recovery time?
+
+END OF FICTIONAL HANDBOOK
